@@ -5,8 +5,8 @@ A React application for managing graphs.
 
 ## Features
 The key features of the application.
-- viewing graph data
-- can view data in between time periods
+- Viewing graph data
+- Can view data in between time periods
 
 ## Deployed link
 [link](https://marble-ai-alpha.vercel.app/)
