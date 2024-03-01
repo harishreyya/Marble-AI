@@ -9,7 +9,7 @@ import {
   Legend,
 } from 'recharts';
 
-import './App.css'; // Import the CSS file
+import './App.css'; 
 
 const data = [
   { name: 'Jan', metric1: 20, metric2: 15, metric3: 30 },
